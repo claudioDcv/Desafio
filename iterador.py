@@ -15,11 +15,11 @@ Mientras i sea menor a 50(que llamaremos n) Repetir
     i aumentar en uno
 '''
 
+# while, conversión a for
 print('----------------------------------------------------\n')
 print('FOR:\n')
 
-n = 50
-for i in range(n):
+for i in range(50):
     print("Iteración {}".format(i + 1))
 
 

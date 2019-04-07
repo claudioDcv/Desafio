@@ -1,5 +1,3 @@
-from functools import reduce
-
 n = int(input("Ingrese un número para comenzar la cuenta\n"))
 
 total = 0

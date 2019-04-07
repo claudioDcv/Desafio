@@ -7,6 +7,8 @@ for i in range(cuenta_regresiva):
     print("Iteración {}".format(tmp - i))
 
 
+# for, conversión a while
+
 print('----------------------------------------------------\n')
 print('WHILE:\n')
 
