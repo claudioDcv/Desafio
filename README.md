@@ -53,7 +53,10 @@ uso:
 python solo_pares.py
 0 2 4 6 8
 ```
-### 2. Crear una variante del programa anterior llamado ```solo_pares_refactor.py``` . En este caso, el cero no debe ser considerado (el cero no es par).
+
+### 2. Crear una variante del programa anterior llamado ```solo_pares_refactor.py``` .
+
+En este caso, el cero no debe ser considerado (el cero no es par).
 uso:
 
 ```sh
